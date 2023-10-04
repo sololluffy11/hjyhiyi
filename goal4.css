@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.pl{
+   width: 500px; 
+   height: 300px;
+   border-radius: 5px;
+   margin-left: 100px;
+}
+.rt{
+    background-color: #2759D4;
+    color: white;
+    padding-left: 120px;
+}
+.fd{
+    background-color: #2759D4;
+    color: white;
+    letter-spacing: 5px;
+    margin-top: 30px;
+    margin-left: 90px;
+    height: 30px;
+    border-radius: 10px;
+    width: 300px;
+}
+.fg{
+    margin-left: 30px;
+}
